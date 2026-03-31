@@ -2,7 +2,7 @@
 
 내 집 마련을 위한 모바일 웹앱. 매물 관리, 자금 시뮬레이션, 비교 분석, 임장 체크까지.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fgheyseo%2Fkorean-house-hunter&env=VITE_APP_NAME,VITE_PASSWORD&envDescription=Set%20your%20app%20name%20and%20password&envLink=https%3A%2F%2Fgithub.com%2Fgheyseo%2Fkorean-house-hunter%23environment-variables)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fgheyseo-tech%2Fkorean-house-hunter&env=VITE_APP_NAME,VITE_PASSWORD&envDescription=Set%20your%20app%20name%20and%20password&envLink=https%3A%2F%2Fgithub.com%2Fgheyseo-tech%2Fkorean-house-hunter%23environment-variables)
 
 ## Features
 
@@ -18,7 +18,7 @@
 
 ```bash
 # 1. Clone
-git clone https://github.com/gheyseo/korean-house-hunter.git
+git clone https://github.com/gheyseo-tech/korean-house-hunter.git
 cd korean-house-hunter
 
 # 2. Install
